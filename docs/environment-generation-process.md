@@ -264,7 +264,6 @@ Common issues in the environment generation process and their solutions:
 | Parameter validation fails | Invalid parameter values, missing mandatory parameters | Check parameter values against schema, ensure all mandatory parameters are provided |
 | Cloud passport not found | Incorrect cloud name, missing cloud passport file | Verify cloud name, ensure cloud passport file exists |
 | CMDB import fails | Invalid configuration, CMDB connection issues | Validate configuration, check CMDB connection |
-| Deployment fails | Resource conflicts, insufficient permissions | Check for resource conflicts, verify permissions |
 
 ## Best Practices
 
