@@ -138,10 +138,6 @@ envSpecific:
     cloud:
       e2eParameters:
         key3: "boolean"
-  mandatoryList:
-    cloud:
-      e2eParameters:
-        key3: "boolean"
   blackList:
     deployParameters:
       - "key8"
